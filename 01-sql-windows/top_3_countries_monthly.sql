@@ -1,0 +1,3 @@
+-- TODO: Top-3 countries by revenue per month
+-- Hint: ROW_NUMBER() OVER (PARTITION BY month ORDER BY revenue DESC)
+-- Dataset: bigquery-public-data.google_analytics_sample.ga_sessions_20170801

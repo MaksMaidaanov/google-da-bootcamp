@@ -1,0 +1,3 @@
+-- TODO: Day-2 retention using LAG()
+-- Hint: bigquery-public-data.google_analytics_sample.ga_sessions_20170801
+-- Goal: Find users who return on day N+2
